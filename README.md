@@ -14,7 +14,7 @@ This is a Python program that can perform the following operations:
 
 
 #### PREREQUISITES
-Before running the Python program, please download the datasets in the same directory as the program.
+Before running the Python program, please download the datasets and place them in the same directory as the program.
 They are available in CSV format and can be downloaded from the following link: 
 https://www.kaggle.com/rounakbanik/the-movies-dataset
 
